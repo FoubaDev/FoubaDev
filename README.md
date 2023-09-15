@@ -22,4 +22,3 @@ I can build website
 ## Mobile developpement
 I can build mobile developpement
 ## Information about Me
-Please visit this link https://foubadev.github.io/
