@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 
 ## LAGRE BERTRAND --Page Web
 I am data developper. I do also Web developpment
-## Web developpement
-I can build website
-## Mobile developpement
-I can build mobile developpement
+## Data Analyst
 ## Information about Me
