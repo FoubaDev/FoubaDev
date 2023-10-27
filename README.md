@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 I am data developper. I do also Web developpment
 ## Data Analyst
 ## Information about Me
+https://github.com/anuraghazra/github-readme-stats#hiding-individual-stats
+![FoubaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoubaDev&hide=contribs,prs)
